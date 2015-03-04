@@ -3,7 +3,7 @@
 ###Student Information
   + Name: Mitch Worsey
   + USC Email: worsey@usc.edu
-  + USC ID: 8370927291
+  + Developed: October 2013
 
 ###Resources
   + [Restaurant v2.2](http://www-scf.usc.edu/%7Ecsci201/assignments/assignment03.html)
